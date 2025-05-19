@@ -55,15 +55,6 @@ Located in:
 
 ---
 
-## 🤯 Reflection
-
-✅ MongoDB Atlas was quick to set up  
-✅ JWT flow feels smooth now  
-⚠️ Initially missed async/await in auth middleware  
-⚠️ Learned to use `bcrypt.compare` correctly in login logic
-
----
-
 ## 📁 Repo Path
 /day-01/
 ├── code/
